@@ -1,7 +1,7 @@
 {
-  "name": "caas-demo-store",
-  "version": "0.0.1",
-  "description": "Single page javascript application to demonstrate CAAS APIs.",
+  "name": "sumit-demo-store",
+  "version": "0.0.2",
+  "description": "Customized Single page javascript application to demonstrate CAAS APIs.",
   "main": "public/js/shared-index.js",
   "engines": {
     "node": "0.10.x",
